@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Mas cambios
+=======
+Nuevo cambio en remote
+>>>>>>> 813a6fcc1b070d655fbb35897b3ba0d50bd6f061
