@@ -1,5 +1,1 @@
-
-Contenido
->>>>>>> body
-
-MAS contenido
+Este archivo es nuevo...
